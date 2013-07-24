@@ -1,7 +1,7 @@
 Mega-Projects
 =============
 
-This is a spin-off from another repo called "Projects" by thekarangoel. This repo is geared towards providing a list of projects that can be done in any language. The ultimate goal is for this to be a course list in which a beginner can start on any number of projects and ultimately leave as an expert in the language. ***The community will be allowed to make commits only under a strict set of guidelines and rules.
+This is a spin-off from another repo called "Projects" by thekarangoel. This repo is geared towards providing a list of projects that can be done in any language. The ultimate goal is for this to be a course list in which a beginner can start on any number of projects and ultimately leave as an expert in the language. ***The community will be allowed to make commits only under a strict set of guidelines and rules.***
 
 Some details on this repo:
 
@@ -12,38 +12,38 @@ Some details on this repo:
 * I will do my best to complete as many of them as I can
 * I encourage everyone to make commits but please include commenting to    describe any algorithms or reasons for your architecture. 
 
-I will provide links to each project that is completed. There may be concerns that this comes into the same playing field as websites like RosettaCode. However, do understand, this is the magical land of Github and not the Internet. I want us to all work as a team and learn from each other. **It is an experience, not a race.** 
+I will provide links to each project that is completed. There may be concerns that this comes into the same playing field as websites like RosettaCode. However, do understand, this is the magical land of Github and not the Internet. I want us to all work as a team and learn from each other. *It is an experience, not a race.* 
 
-***I would like place credit where it is due to thekarangoel for constructing this list of projects and for being an inspiration to start this repo. I highly recommend visiting his repo as well [**located here**](https://github.com/thekarangoel/Projects)***
+**I would like place credit where it is due to thekarangoel for constructing this list of projects and for being an inspiration to start this repo. I highly recommend visiting his repo as well [*located here*](https://github.com/thekarangoel/Projects)**
 
 Numbers
 ---------
 
-[**Find PI to the Nth Digit**] - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
+**Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
-[**Fibonacci Sequence**] - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
-[**Prime Factorization**] - Have the user enter a number and find all Prime Factors (if there are any) and display them.
+**Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
-[**Next Prime Number**] - Have the program find prime numbers until the user chooses to stop asking for the next one.
+**Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.
 
-[**Find Cost of Tile to Cover W x H Floor**] - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+**Find Cost of Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
 **Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
 
-[**Change Return Program**] - The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
+**Change Return Program** - The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 
-[**Binary to Decimal and Back Converter**] - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
+**Binary to Decimal and Back Converter** - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
 
-[**Calculator**] - A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
+**Calculator** - A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
 **Unit Converter (temp, currency, volume, mass and more)** - Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion.
 
-[**Alarm Clock**] - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time.
+**Alarm Clock** - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time.
 
-[**Distance Between Two Cities**] - Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude.
+**Distance Between Two Cities** - Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude.
 
-[**Credit Card Validator**] - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
+**Credit Card Validator** - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
 
 **Tax Calculator** - Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
 
@@ -52,17 +52,17 @@ Numbers
 Text
 ---------
 
-[**Reverse a String**] - Enter a string and the program will reverse it and print it out.
+**Reverse a String** - Enter a string and the program will reverse it and print it out.
 
-[**Pig Latin**] - Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
+**Pig Latin** - Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
 
-[**Count Vowels**] - Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
+**Count Vowels** - Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
 
-[**Check if Palindrome**] - Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
+**Check if Palindrome** - Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 
 **Count Words in a String** - Counts the number of individual words in a string and display the top 5/10 most used words.
 
-**Text Editor** - Notepad style application that can open, edit, and save text documents. *Optional: Add syntax highlighting and other features.*
+**Text Editor** - Notepad style application that can open, edit, and save text documents. **Optional: Add syntax highlighting and other features.**
 
 **RSS Feed Creator** - A program which can read in text from other sources and put it in RSS or Atom news format for syndication.
 
@@ -84,7 +84,7 @@ Text
 
 **CD Key Generator** - Generates a unique key for your applications to use based on some arbitrary algorithm that you can specify. Great for software developers looking to make shareware that can be activated.
 
-**Regex Query Tool** - A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular exp****ression against the source text and return any matches or flag errors in the regular exp****ression.
+**Regex Query Tool** - A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression.
 
 Networking
 ---------
@@ -308,5 +308,5 @@ Graphics and Multimedia
 Sources
 =======
 
-[Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
+Martyr2’s Mega Project List(http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 
